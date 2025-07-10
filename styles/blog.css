@@ -4,3 +4,5 @@ p{height: 500px; background-image: url('gari.jpeg'); background-position-x: cent
 div{margin: 30px;}
 
 ol{background-color: aqua;}
+
+.Second h2{color: aquamarine;} p{color: aquamarine;}
