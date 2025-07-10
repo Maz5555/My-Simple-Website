@@ -1,8 +1,8 @@
 h2{font-family:Verdana, Geneva, Tahoma, sans-serif ;}
-p{height: 500px; background-image: url('gari.jpeg'); background-position-x: center; background-size:30%; background-repeat: no-repeat;}
+p{height: 50px; background-image: url('gari.jpeg'); background-position-x: center; background-size:30%; background-repeat: no-repeat;}
 
-div{margin: 30px;}
+div{margin:0%;}
 
-ol{background-color: aqua;}
+ol{background-color: aqua; background-size:cover;}
 
 .Second h2{color: aquamarine;} p{color: aquamarine;}
